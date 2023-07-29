@@ -54,8 +54,8 @@
 ### SQL Standard
   - data types
   - syntax
-  - Vendors add 'candy'
-  - stick as close as you can to standard
+  - Vendors add 'candy'. Avoid these
+  - stick as close as you can to standard SQL types
 
 ### Relationships
  - one to one
