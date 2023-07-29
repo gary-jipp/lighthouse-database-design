@@ -52,8 +52,8 @@
   - Every field / column must have a data type
 
 ### SQL Standard
-  - data types
-  - syntax
+  - standard SQL data types
+  - standard SQL syntax
   - Vendors add 'candy'. Avoid these
   - stick as close as you can to standard SQL types
 
