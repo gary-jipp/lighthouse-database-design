@@ -1,11 +1,11 @@
 # Database Design
 
 ### Agenda
-- [x] Primary Keys/Foreign Keys
-- [x] Naming Conventions
-- [x] Data Types
-- [x] Relationship Types
-- [x] Design Concepts
+- [] Primary Keys/Foreign Keys
+- [] Naming Conventions
+- [] Data Types
+- [] Relationship Types
+- [] Design Concepts
 - [] Database Normalization
 - [] Entity Relationship Diagrams
 - [] ERD Examples
