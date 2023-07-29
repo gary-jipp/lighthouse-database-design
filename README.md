@@ -10,7 +10,7 @@
 - [] Entity Relationship Diagrams
 - [] ERD Examples
 
-### Terminology
+## Terminology
 
 ### RDBMS / RDB Engine
  - PostgreSQL
@@ -42,7 +42,7 @@
   - a primary key from another table
   - MUST be the same data type as the primary
 
-### Naming Conventions
+## Naming Conventions
 - Tables and Column snake_case
 - Tables are always plural
 - pimary key : `id`,
@@ -57,7 +57,7 @@
   - Vendors add 'candy'. Avoid these
   - stick as close as you can to standard SQL types
 
-### Relationships
+## Relationships
  - one to one
  - one to many
  - many to many ** Does not exist! in RDB
@@ -67,7 +67,7 @@
  - The FK is on the Many side
 
 
- ### Scenario
+ ## Scenario
  #### Jurassic Park
 
 - People
